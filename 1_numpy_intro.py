@@ -21,4 +21,4 @@ while True:
         except KeyboardInterrupt:
             pass
         break
-    time.sleep(1)
+    time.sleep(2)
